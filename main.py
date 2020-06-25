@@ -6,6 +6,6 @@ html = '''
 </html>
 '''
 
-f = open("index.html","w")
+f = open("public/index.html","w")
 f.write(html)
 f.close()
